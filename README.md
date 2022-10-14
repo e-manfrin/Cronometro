@@ -5,8 +5,8 @@ Repositório relativo ao Projeto Cronômetro as tecnologias envolvidas React com
 ## Telas do sistema:
 
 <div align="center">
-<img width="550"  >
-<img width="550" >
+<img width="627"  alt="cronometro2" src="https://user-images.githubusercontent.com/79612116/195956650-e3458164-6ff4-406f-9495-ff59993c7037.PNG">
+<img width="627" alt="cronometro" src="https://user-images.githubusercontent.com/79612116/195956575-b4e32e28-c8d2-4d6a-a8d5-2b0d67b91fb3.PNG">
 </div>
 
 ## Linkedin
