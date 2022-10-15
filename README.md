@@ -47,7 +47,7 @@ npm install
 
 (garantir que está dentro da pasta)
 
-npm start
+npm start 
 
 
 
